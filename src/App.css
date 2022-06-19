@@ -1,0 +1,50 @@
+
+.p-2{
+    text-decoration: none;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    
+}
+.pt-4{
+    margin: 20px;
+ }
+ .text-muted{
+    text-decoration: none;
+}
+
+@media(min-width:760px){
+
+.p-2{
+    margin-right: 20px;
+    text-decoration: none;
+}
+.lead{
+  width:670px;
+  margin-left: 300px;
+}
+
+.card{
+    
+    width:300px;
+    
+}
+.my-2{
+    margin-left: 600px;
+}
+.card-deck{
+    display: flex;
+    justify-content:space-around;
+}
+.pt-4{
+   margin: 150px;
+}
+.text-muted{
+    text-decoration: none;
+}
+
+}
+
+
+
